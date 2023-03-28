@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 - He received the B.Sc. degree from [China University of Geoscience (CUGB)](https://www.cugb.edu.cn/), Beijing, China, in 2019. 
 - He is currently working toward the Ph. D. degree in the [Institute of Acoustics (IOA)](http://www.ioa.ac.cn/) of the [Chinese Academy of Sciences (CAS)](https://www.cas.cn/), Beijing 100190, China. 
 - He is advised by Professor [Yonghong Yan](https://people.ucas.ac.cn/~yanyonghong) in the CAS Key Laboratory of Speech Acoustics and Content Understanding. 
-- His research interests include natural language process, fintech and circuit implementation.
+- His research interests include natural language process, fintech, and circuit implementation.
