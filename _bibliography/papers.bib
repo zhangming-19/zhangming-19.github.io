@@ -1,84 +1,177 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
+@article{chen2023explain,
+  abbr={Workshop},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+  title={Explaining Predictive Uncertainty by Looking Back at Model Explanations},
+  abstract={Predictive uncertainty estimation of pre-trained language models is an important measure of how likely people can trust their predictions. However, little is known about what makes a model prediction uncertain. Explaining predictive uncertainty is an important complement to explaining prediction labels in helping users understand model decision making and gaining their trust on model predictions, while has been largely ignored in prior works. In this work, we propose to explain the predictive uncertainty of pre-trained language models by extracting uncertain words from existing model explanations. We find the uncertain words are those identified as making negative contributions to prediction labels, while actually explaining the predictive uncertainty. Experiments show that uncertainty explanations are indispensable to explaining models and helping humans understand model prediction behavior.},
+  author={Chen, Hanjie and Du, Wanyu and Ji, Yangfeng},
+  journal={AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making},
+  year={2023},
+  month={Feb},
+  publisher={AAAI},
+  url={https://arxiv.org/abs/2201.03742},
+  html={https://arxiv.org/abs/2201.03742}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
+
+@article{du-etal-2022-sa2,
+  abbr={EMNLP},
   bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+  title={Self-training with Two-phase Self-augmentation for Few-shot Dialogue Generation},
+  author={Du, Wanyu and Chen, Hanjie and Ji, Yangfeng},
+  abstract ={In task-oriented dialogue systems, response generation from meaning representations (MRs) often suffers from limited training examples, due to the high cost on annotating MR-to-Text pairs. Previous works on self-training leverage fine-tuned conversational models to automatically generate pseudo-labeled MR-to-Text pairs for further fine-tuning. However, some self-augmented data may be noisy or uninformative for the model to learn from. In this work, we propose a two-phase self-augmentation procedure to generate high-quality pseudo-labeled MR-to-Text pairs: the first phase selects the most informative MRs based on model's prediction uncertainty; with the selected MRs, the second phase generates accurate responses by aggregating multiple perturbed latent representations from each MR. Empirical experiments on two benchmark datasets, FewShotWOZ and FewShotSGD, show that our method generally outperforms existing self-training methods on both automatic and human evaluations.},
+  journal={Findings of the Association for Computational Linguistics: EMNLP 2022},
+  year={2022},
+  month={Dec},
+  publisher={Association for Computational Linguistics},
+  url={https://arxiv.org/abs/2205.09661},
+  html={https://arxiv.org/abs/2205.09661}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
+@article{zhao-etal-2022-floweval,
+  abbr={EMNLP},
+  bibtex_show={true},
+  title={FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows},
+  author={Zhao, Jianqiao and Li, Yanyang and Du, Wanyu and Ji, Yangfeng and Yu, Dong and Lyu, Michael R. and Wang, Liwei},
+  journal={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year={2022},
+  month={Dec},
+  publisher={Association for Computational Linguistics},
+  url={https://arxiv.org/abs/2202.06633},
+  html={https://arxiv.org/abs/2202.06633},
+  abstract={Despite recent progress in open-domain dialogue evaluation, how to develop automatic metrics remains an open problem. We explore the potential of dialogue evaluation featuring dialog act information, which was hardly explicitly modeled in previous methods. However, defined at the utterance level in general, dialog act is of coarse granularity, as an utterance can contain multiple segments possessing different functions. Hence, we propose segment act, an extension of dialog act from utterance level to segment level, and crowdsource a large-scale dataset for it. To utilize segment act flows, sequences of segment acts, for evaluation, we develop the first consensus-based dialogue evaluation framework, FlowEval. This framework provides a reference-free approach for dialog evaluation by finding pseudo-references. Extensive experiments against strong baselines on three benchmark datasets demonstrate the effectiveness and other desirable characteristics of our FlowEval, pointing out a potential path for better dialogue evaluation.}
+}
+
+@article{kim-etal-2022-improving-iterative,
+  abbr={EMNLP},
+  bibtex_show={true},
+  title={Improving Iterative Text Revision by Learning Where to Edit from Other Revision Tasks},
+  author={Kim, Zae Myung and Du, Wanyu and Raheja, Vipul and Kumar, Dhruv and Kang, Dongyeop},
+  journal={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year={2022},
+  month={Dec},
+  url={https://arxiv.org/abs/2212.01350},
+  html={https://arxiv.org/abs/2212.01350},
+  publisher={Association for Computational Linguistics},
+  abstract ={Iterative text revision improves text quality by fixing grammatical errors, rephrasing for better readability or contextual appropriateness, or reorganizing sentence structures throughout a document. Most recent research has focused on understanding and classifying different types of edits in the iterative revision process from human-written text instead of building accurate and robust systems for iterative text revision. In this work, we aim to build an end-to-end text revision system that can iteratively generate helpful edits by explicitly detecting editable spans (where-to-edit) with their corresponding edit intents and then instructing a revision model to revise the detected edit spans. Leveraging datasets from other related text editing NLP tasks, combined with the specification of editable spans, leads our system to more accurately model the process of iterative text refinement, as evidenced by empirical results and human evaluations. Our system significantly outperforms previous baselines on our text revision tasks and other standard text revision tasks, including grammatical error correction, text simplification, sentence fusion, and style transfer. Through extensive qualitative and quantitative analysis, we make vital connections between edit intentions and writing quality, and better computational modeling of iterative text revisions.},
+}
+
+@article{du-etal-2022-understanding-iterative,
+  abbr={ACL},
+  bibtex_show={true},
+  title={Understanding Iterative Revision from Human-Written Text},
+  author={Du, Wanyu and Raheja, Vipul and Kumar, Dhruv and Kim, Zae Myung and Lopez, Melissa and Kang, Dongyeop},
+  journal={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
+  pages={3573--3590},
+  year={2022},
   month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
+  doi={10.18653/v1/2022.acl-long.250},
+  url={https://aclanthology.org/2022.acl-long.250},
+  html={https://aclanthology.org/2022.acl-long.250},
+  publisher={Association for Computational Linguistics},
+  abstract ={Writing is, by nature, a strategic, adaptive, and, more importantly, an iterative process. A crucial part of writing is editing and revising the text. Previous works on text revision have focused on defining edit intention taxonomies within a single domain or developing computational models with a single level of edit granularity, such as sentence-level edits, which differ from human{'}s revision cycles. This work describes IteraTeR: the first large-scale, multi-domain, edit-intention annotated corpus of iteratively revised text. In particular, IteraTeR is collected based on a new framework to comprehensively model the iterative text revisions that generalizes to a variety of domains, edit intentions, revision depths, and granularities. When we incorporate our annotated edit intentions, both generative and action-based text revision models significantly improve automatic evaluations. Through our work, we better understand the text revision process, making vital connections between edit intentions and writing quality, enabling the creation of diverse corpora to support computational modeling of iterative text revisions.},
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
+@article{du-etal-2022-read,
+  abbr={Workshop},
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+  title={Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision},
+  author={Du, Wanyu  and
+      Kim, Zae Myung  and
+      Raheja, Vipul  and
+      Kumar, Dhruv  and
+      Kang, Dongyeop},
+  abstract={Revision is an essential part of the human writing process. It tends to be strategic, adaptive, and, more importantly, iterative in nature. Despite the success of large language models on text revision tasks, they are limited to non-iterative, one-shot revisions. Examining and evaluating the capability of large language models for making continuous revisions and collaborating with human writers is a critical step towards building effective writing assistants. In this work, we present a human-in-the-loop iterative text revision system, Read, Revise, Repeat (R3), which aims at achieving high quality text revisions with minimal human efforts by reading model-generated revisions and user feedbacks, revising documents, and repeating human-machine interactions. In R3, a text revision model provides text editing suggestions for human writers, who can accept or reject the suggested edits. The accepted edits are then incorporated into the model for the next iteration of document revision. Writers can therefore revise documents iteratively by interacting with the system and simply accepting/rejecting its suggested edits until the text revision model stops making further revisions or reaches a predefined maximum number of revisions. Empirical experiments show that R3 can generate revisions with comparable acceptance rate to human writers at early revision depths, and the human-machine interaction can get higher quality revisions with fewer iterations and edits. The collected human-model interaction dataset and system code are available at \url{https://github.com/vipulraheja/IteraTeR}. Our system demonstration is available at \url{https://youtu.be/lK08tIpEoaE}.},
+  journal={Proceedings of the First Workshop on Intelligent and Interactive Writing Assistants (In2Writing 2022)},
+  pages={96--108},
+  year={2022},
+  month={May},
+  publisher={Association for Computational Linguistics},
+  doi={10.18653/v1/2022.in2writing-1.14},
+  url={https://aclanthology.org/2022.in2writing-1.14},
+  html={https://aclanthology.org/2022.in2writing-1.14}
+}
+
+@article{du2022diverse,
+  abbr={Workshop},
+  bibtex_show={true},
+  title={Diverse Text Generation via Variational Encoder-Decoder Models with Gaussian Process Priors},
+  abstract={Generating high quality texts with high diversity is important for many NLG applications, but current methods mostly focus on building deterministic models to generate higher quality texts and do not provide many options for promoting diversity. In this work, we present a novel latent structured variable model to generate high quality texts by enriching contextual representation learning of encoder-decoder models. Specifically, we introduce a stochastic function to map deterministic encoder hidden states into random context variables. The proposed stochastic function is sampled from a Gaussian process prior to (1) provide infinite number of joint Gaussian distributions of random context variables (diversity-promoting) and (2) explicitly model dependency between context variables (accurate-encoding). To address the learning challenge of Gaussian processes, we propose an efficient variational inference approach to approximate the posterior distribution of random context variables. We evaluate our method in two typical text generation tasks: paraphrase generation and text style transfer. Experimental results on benchmark datasets demonstrate that our method improves the generation quality and diversity compared with other baselines.},
+  author={Du, Wanyu and Zhao, Jianqiao and Wang, Liwei and Ji, Yangfeng},
+  journal={arXiv preprint},
+  year={2022},
+  month={May},
+  publisher={arXiv},
+  url={https://arxiv.org/abs/2204.01227},
+  html={https://arxiv.org/abs/2204.01227}
+}
+
+
+@article{du-ji-2021-sidecontrol-controlled,
+  abbr={EMNLP},
+  bibtex_show={true},
+  title={{S}ide{C}ontrol: Controlled Open-domain Dialogue Generation via Additive Side Networks},
+  author={Du, Wanyu and Ji, Yangfeng},
+  abstract ={Transformer-based pre-trained language models boost the performance of open-domain dialogue systems. Prior works leverage Transformer-based pre-trained language models to generate texts with desired attributes in two general approaches: (1) gradient-based methods: updating all latent representations of pre-trained models with gradients from attribute models; (2) weighted-decoding methods: re-ranking beam candidates from pre-trained models with attribute functions. However, gradient-based methods lead to high computation cost and can easily get overfitted on small training sets, while weighted-decoding methods are inherently constrained by the low-variance high-bias pre-trained model. In this work, we propose a novel approach to control the generation of Transformer-based pre-trained language models: the SideControl framework, which leverages a novel control attributes loss to incorporate useful control signals, and is shown to perform well with very limited training samples. We evaluate our proposed method on two benchmark open-domain dialogue datasets, and results show that the SideControl framework has better controllability, higher generation quality and better sample-efficiency than existing gradient-based and weighted-decoding baselines.},
+  journal={Findings of the Association for Computational Linguistics: EMNLP 2021},
+  pages={2175--2194},
+  year={2021},
+  month={Nov},
+  publisher={Association for Computational Linguistics},
+  doi={10.18653/v1/2021.findings-emnlp.188},
+  url={https://aclanthology.org/2021.findings-emnlp.188},
+  html={https://aclanthology.org/2021.findings-emnlp.188}
+}
+
+@article{gehrmann-etal-2021-gem,
+  abbr={Workshop},
+  bibtex_show={true},
+  title={The {GEM} Benchmark: Natural Language Generation, its Evaluation and Metrics},
+  author={Gehrmann, et al.},
+  abstract={We introduce GEM, a living benchmark for natural language Generation (NLG), its Evaluation, and Metrics. Measuring progress in NLG relies on a constantly evolving ecosystem of automated metrics, datasets, and human evaluation standards. Due to this moving target, new models often still evaluate on divergent anglo-centric corpora with well-established, but flawed, metrics. This disconnect makes it challenging to identify the limitations of current models and opportunities for progress. Addressing this limitation, GEM provides an environment in which models can easily be applied to a wide set of tasks and in which evaluation strategies can be tested. Regular updates to the benchmark will help NLG research become more multilingual and evolve the challenge alongside models. This paper serves as the description of the data for the 2021 shared task at the associated GEM Workshop.},
+  journal={Proceedings of the 1st Workshop on Natural Language Generation, Evaluation, and Metrics (GEM 2021)},
+  pages={96--120},
+  year={2021},
+  month={Aug},
+  publisher={Association for Computational Linguistics},
+  doi={10.18653/v1/2021.gem-1.10},
+  url={https://aclanthology.org/2021.gem-1.10},
+  html={https://aclanthology.org/2021.gem-1.10}
+}
+
+
+@article{schoch-etal-2021-contextualizing,
+  abbr={INLG},
+  bibtex_show={true},
+  title={Contextualizing Variation in Text Style Transfer Datasets},
+  author={Schoch, Stephanie  and
+      Du, Wanyu  and
+      Ji, Yangfeng},
+  abstract={Text style transfer involves rewriting the content of a source sentence in a target style. Despite there being a number of style tasks with available data, there has been limited systematic discussion of how text style datasets relate to each other. This understanding, however, is likely to have implications for selecting multiple data sources for model training. While it is prudent to consider inherent stylistic properties when determining these relationships, we also must consider how a style is realized in a particular dataset. In this paper, we conduct several empirical analyses of existing text style datasets. Based on our results, we propose a categorization of stylistic and dataset properties to consider when utilizing or comparing text style datasets.},
+  journal={Proceedings of the 14th International Conference on Natural Language Generation},
+  pages={226--239},
+  year={2021},
+  month={Aug},
+  publisher={Association for Computational Linguistics},
+  url={https://aclanthology.org/2021.inlg-1.22},
+  html={https://aclanthology.org/2021.inlg-1.22}
+}
+
+
+@article{du-ji-2021-sidecontrol-controlled,
+  abbr={EMNLP},
+  bibtex_show={true},
+  title={An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation},
+  author={Du, Wanyu and Ji, Yangfeng},
+  abstract ={Generating paraphrases from given sentences involves decoding words step by step from a large vocabulary. To learn a decoder, supervised learning which maximizes the likelihood of tokens always suffers from the exposure bias. Although both reinforcement learning (RL) and imitation learning (IL) have been widely used to alleviate the bias, the lack of direct comparison leads to only a partial image on their benefits. In this work, we present an empirical study on how RL and IL can help boost the performance of generating paraphrases, with the pointer-generator as a base model. Experiments on the benchmark datasets show that (1) imitation learning is constantly better than reinforcement learning; and (2) the pointer-generator models with imitation learning outperform the state-of-the-art methods with a large margin.},
+  journal={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
+  pages={6012--6018},
+  year={2019},
+  month={Nov},
+  publisher={Association for Computational Linguistics},
+  doi={10.18653/v1/D19-1619},
+  url={https://aclanthology.org/D19-1619},
+  html={https://aclanthology.org/D19-1619}
 }

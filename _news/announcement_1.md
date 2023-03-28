@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-05-26 00:00:00-0000
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Our work on [interactive and iterative text revision](https://www.youtube.com/watch?v=lK08tIpEoaE&feature=youtu.be) received the best paper award in [In2Writing](https://in2writing.glitch.me/) workshop at ACL 2022 :trophy:.
