@@ -1,9 +1,9 @@
 ---
 layout: page
-title: writing assistant
-description: A system for interactive and iterative text revision.
-img: assets/img/R3.png
-redirect: https://github.com/vipulraheja/iterater
+title: financial technology
+description: A system for predicting long-term stock movements with research reports
+img: assets/img/fintech.jpg
+redirect: https://github.com/zhangming-19/SMPRR
 importance: 1
 category: work
 ---
