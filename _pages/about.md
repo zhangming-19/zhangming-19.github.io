@@ -9,8 +9,7 @@ subtitle: <a href='https://www.ucas.ac.cn/'>University of Chinese Academy of Sci
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Beijing, China 100190</p>
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
