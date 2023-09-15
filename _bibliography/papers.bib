@@ -1,10 +1,24 @@
 ---
 ---
-@article{ZHANG2023121364,
+@article{LI2023121513,
+title = {MCRSpell: A metric learning of correct representation for chinese spelling correction},
+journal = {Expert Systems with Applications},
+pages = {121513},
+year = {2023},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2023.121513},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417423020158},
+author = {Chengzhang Li and Ming Zhang and Xuejun Zhang and Yonghong Yan},
+keywords = {Metric learning, Chinese spelling correction, Computational linguistics, Natural language processing},
+abstract = {Chinese spelling correction (CSC) is a difficult but gratifying work that not only helps individuals read and understand the material in their daily lives but also serves as pre-processing for numerous natural language processing (NLP) applications. With pre-trained language models like BERT, many recent works have had great success. However, these methods have three limitations. Firstly, they rely on the output of the last layer of the correction model for parameter updates, ignoring the guidance of intermediate features. This can prevent the model from being adequately trained and thus lead to overfitting. Secondly, they use a variety of data augmentations, which depend on expert knowledge. Some specific augmentation rules only improve the performance on the target dataset, and for out-of-set data, the performance decreases instead. Thirdly, due to the nature of statistical models, they tend to transform low-frequency expressions into more common high-frequency expressions, although correct expressions should be preserved as much as possible for error correction tasks. In this work, we propose a novel general framework for CSC that takes advantage of metric learning to learn semantic knowledge adaptively from multiple intermediate features. Our approach only feeds the input text and target text of the parallel corpus to the model separately for the spelling error correction task without any data augmentation. Moreover, we designed a replication mechanism to keep those low-frequency correct expressions instead of over-correcting them. Our suggested solution can greatly outperform the SOTA methods in the CSC problem, according to extensive trials on benchmarks. We will release the source code for further use by the community.}
+}
+
+@article{ZHANG2024121364,
 title = {ROUGE-SEM: Better evaluation of summarization using ROUGE combined with semantics},
 journal = {Expert Systems with Applications},
+volume = {237},
 pages = {121364},
-year = {2023},
+year = {2024},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2023.121364},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417423018663},
