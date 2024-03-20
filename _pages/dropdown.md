@@ -20,5 +20,5 @@ permalink: /services/
 
 #### Services
 <ol>
-  <li>Reviewer, <a href=''>ACL</a>, <a href=''>EMNLP</a>, <a href=''>NAACL</a>, <a href='https://aclrollingreview.org/' target='_blank'>ACL Rolling Review</a></li>
+  <li>Reviewer, <a href=''>Information Processing and Management</a>, <a href=''>Expert Systems with Applications</a></li>
 </ol>
