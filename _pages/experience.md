@@ -3,7 +3,7 @@ layout: page
 permalink: /experiences/
 title: experiences
 description: 
-nav: true
+nav: false
 nav_order: 3
 ---
 
