@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Please see my full publication list at <a href='https://scholar.google.com.hk/citations?user=-QVrM-QAAAAJ'><u>google scholar</u></a>.
-years: [2024, 2023, 2022, 2021, 2020, 2019]
+years: [2024, 2022, 2021, 2019]
 nav: true
 nav_order: 1
 ---
