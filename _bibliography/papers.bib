@@ -1,5 +1,20 @@
 ---
 ---
+@article{ZHANG2024103696,
+title = {From coarse to fine: Enhancing multi-document summarization with multi-granularity relationship-based extractor},
+journal = {Information Processing & Management},
+volume = {61},
+number = {3},
+pages = {103696},
+year = {2024},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2024.103696},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457324000566},
+author = {Ming Zhang and Jiyu Lu and Jiahao Yang and Jun Zhou and Meilin Wan and Xuejun Zhang},
+keywords = {Natural language processing, Multi-document summarization, Graph-based summarization, Rich document relationships, Extract-then-summarize pipeline},
+abstract = {Multi-Document Summarization (MDS) is a challenging task due to the fact that multiple documents not only have extremely long inputs but may also be overlapping, complementary, or contradictory to each other. In this paper, we propose to capture complex cross-document interactions to handle lengthy inputs for better multi-document summarization. Specifically, we present MDS-MGRE, a coarse-to-fine MDS framework that introduces Multi-Granularity Relationships into an Extract-then-summarize pipeline. In the coarse-grained stage, multi-granularity embedding, heterogeneous graph construction, and MGRExtractor work together to convert redundant multi-documents into compact meta-documents. We first utilize pre-trained language model BERT to obtain semantically rich embeddings for documents at different granularities, including documents, paragraphs, sentence-sets, and sentences. Then, we construct a heterogeneous graph with 4 types of nodes (document nodes, paragraph nodes, sentence-set nodes, and sentence nodes) and corresponding connecting edges to model rich document relationships. Furthermore, we propose a novel Multi-Granularity Relationship-based Extractor (MGRExtractor) to produce meta-documents by efficiently pruning heterogeneous graphs. More precisely, it consists of 4 main modules: noise removal, redundancy removal, multi-granularity scoring, and sentence-set selection. In the fine-grained stage, we employ the large configuration of BART as our abstractive summarizer to generate system summaries from the extracted meta-documents. Experimental results on two benchmark datasets show that our framework significantly outperforms strong baselines with comparable parameters, and slightly underperforms methods with a maximum encoding length of 16,384 tokens. For Multi-News and WCEP, automatic evaluation results show that MDS-MGRE achieves an average performance improvement of 1.75% and 8.77% compared to the state-of-the-art systems with comparable parameters, respectively. Such positive results demonstrate the benefits of generating high-quality meta-documents to enhance MDS by modeling rich document relationships.}
+}
+
 @article{ZHANG2024121364,
 title = {ROUGE-SEM: Better evaluation of summarization using ROUGE combined with semantics},
 journal = {Expert Systems with Applications},
@@ -50,11 +65,8 @@ abstract = {By shaping investors’ perceptions and assessments of the stock, re
   volume={68},
   number={4},
   pages={1553-1566},
-  abstract={Once there are constant or infrequently changed bits (COIBs) in two adjacent input messages of SHA-2, the switching power of input messages data registers (IMD-REGs) used for COIBs will disappear. Meanwhile, when full pipeline SHA-2 is applied in a certain application scenario where the IMD-REGs used for COIBs can be removed, more area of full pipeline SHA-2 can be saved as the proportion of IMD-REGs in message word registers increases. This paper proposes a new message expansion structure for full pipeline SHA-2 to increase the proportion of IMD-REGs. By inserting two expanders in last part of expansion structure pipeline stages and rescheduling the expander, the consumption rate of input messages will be decreased and the proportion of IMD-REGs will be increased. Compared with normal message expansion structure, the ratio of IMD-REGs to total message word registers in the proposed structure is increased from 15.1% to 41.6% for full pipeline SHA256, and 11.2% to 32.4% for full pipeline SHA512. When COIBs exists in adjacent input messages, the power and area advantages of proposed new message expansion structure have been demonstrated by FPGA and ASIC implementations.},
-  keywords={},
-  doi={10.1109/TCSI.2021.3054758},
-  ISSN={1558-0806},
-  month={April},}
+  keywords={Pipelines;Registers;Optimization;Hardware;Field programmable gate arrays;Throughput;Power demand;Secure hash algorithm-2 (SHA-2);hardware implementation;hash function;full pipeline;message expansion},
+  doi={10.1109/TCSI.2021.3054758}}
 
 @article{DBLP:journals/jcsc/WanZZG19,
   author    = {Meilin Wan and
@@ -77,15 +89,12 @@ abstract = {By shaping investors’ perceptions and assessments of the stock, re
   author={Wang, Zhou and Zhang, Yin and Ma, Yingchen and Zhang, Ming and He, Zhangqing and Wan, Meilin},
   journal={IEEE Transactions on Circuits and Systems I: Regular Papers}, 
   title={Enhancing the Reliability of SC PUF Through Optimal Capacitor Configuration}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-14},
-  abstract={Switched-capacitor (SC) PUF has been used in the protection of security chips from invasive attacks due to their capacitive sensitivity. However, non-volatile memory cells are often used to bypass the unstable SC PUF units, which then become insensitive to outside attacks, creating a vulnerability that can be exploited by probing or Focus Ion Beam (FIB) attacks, thereby posing a potential security risk if these units are used to cover sensitive areas of the security chip. This paper proposes a method to increase stability while maintaining anti-invasive-attack capabilities by utilizing the configurability of the four capacitors in each SC PUF unit, and selecting the configuration that provides a larger mismatch of capacitor ratios, resulting in a larger output voltage mismatch. By doing so, the variation of offset for the latch-styled sense amplifier (LSSA) is suppressed, and the stability of the SC PUF is significantly increased. Additionally, changing the polarity of the LSSA’s inputs to match its offset also increases the effective input voltage of the LSSA. The proposed SC PUF using optimal capacitor configuration is fabricated using a 12 nm FinFET CMOS process. Test results demonstrate that the bit error rate of the SC PUF is reduced from about 17% to about 1.5%, and most of the SC PUF units can serve as anti-invasive-attack shields of the security chip.},
-  keywords={},
-  doi={10.1109/TCSI.2023.3327250},
-  ISSN={1558-0806},
-  month={},}
+  year={2024},
+  volume={71},
+  number={1},
+  pages={85-98},
+  keywords={Capacitors;Security;Circuit stability;CMOS process;FinFETs;Voltage;Sensitivity;Switched-capacitor;PUF;capacitor configuration;high stability;12-nm FinFET CMOS process},
+  doi={10.1109/TCSI.2023.3327250}}
 
 @article{YANG2024103579,
 title = {An efficient loss function and deep learning approach for ranking stock returns in the absence of prior knowledge},
