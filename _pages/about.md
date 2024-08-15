@@ -8,7 +8,7 @@ subtitle: <a href='https://www.ucas.ac.cn/'>University of Chinese Academy of Sci
 
 profile:
   align: right
-  image: ZM.jpg
+  image: ZMY.jpg
   address: 
 
 news: true  # includes a list of news items
