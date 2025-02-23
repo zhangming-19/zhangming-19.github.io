@@ -22,7 +22,7 @@ repository               : "zhangming-19/zhangming-19.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ZM.jpg"
+  avatar           : "ZM.JPG"
   name             : "Ming Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Big Data Scientist at Hubei University"
