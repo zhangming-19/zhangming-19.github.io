@@ -29,11 +29,11 @@ author:
   location         : "Wuhan, Hubei, China"
   employer         : "Hubei University"
   uri              : "https://sme.hubu.edu.cn/info/1252/1672.htm" # URL
-  email            : "zhangming.peter@gmail.com" 
+  email            : "&#x7A;&#x68;&#x61;&#x6E;&#x67;&#x6D;&#x69;&#x6E;&#x67;&#x2E;&#x70;&#x65;&#x74;&#x65;&#x72;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;" # zhangming.peter@gmail.com
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=QVrM-QAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=-QVrM-QAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-6967-1732"
   semantic         : # URL
