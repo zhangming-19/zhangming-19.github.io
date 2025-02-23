@@ -16,8 +16,21 @@ Thank you for visiting my website!
 
 News
 ======
-1. ==2024-12-21== Our paper [Enhancing Stock Ranking Forecasting by Modeling Returns with Heteroscedastic Gaussian Distribution](https://doi.org/10.1016/j.physa.2025.130442) was accepted by [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) (SCI Q2).
-1. ==2024-09-22== Our paper [A Low Power Capacitive Sensor Readout Circuit](https://ieeexplore.ieee.org/document/10846711) was accepted by [2024 6th International Conference on Circuits and Systems](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) (EI Compendex & Scopus).
+---
+layout: post
+date: 2025-02-23 00:00:00-000
+inline: true
+---
+Our paper [Enhancing Stock Ranking Forecasting by Modeling Returns with Heteroscedastic Gaussian Distribution](https://doi.org/10.1016/j.physa.2025.130442) was accepted by [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) (SCI Q2).
+
+---
+layout: post
+date: 2024-09-22 00:00:00-000
+inline: true
+---
+Our paper [A Low Power Capacitive Sensor Readout Circuit](https://ieeexplore.ieee.org/document/10846711) was accepted by [2024 6th International Conference on Circuits and Systems](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) (EI Compendex & Scopus).
+
+
 1. ==2024-08-14== Our paper [Separating the predictable part of returns with CNN-GRU-attention from inputs to predict stock returns](https://doi.org/10.1016/j.asoc.2024.112116) was accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) (SCI Q1).
 1. ==2024-03-20== Our paper [
 A hierarchical deep model integrating economic facts for stock movement prediction](https://doi.org/10.1016/j.engappai.2024.108320) was accepted by [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) (SCI Q1, CCF-C).
