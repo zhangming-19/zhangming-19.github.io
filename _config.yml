@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Homepage of Ming Zhang"
-title_separator          : "Big Data Scientist"
+title_separator          : "-"
 name                     : &name "Ming Zhang"
 description              : &description "personal description"
 url                      : https://zhangming-19.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -22,11 +22,11 @@ repository               : "zhangming-19/zhangming-19.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ZMY.png"
+  avatar           : "ZMY.jpg"
   name             : "Ming Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer of artificial intelligence at Hubei University"
-  location         : "368 Youyi Avenue, Wuchang District, Wuhan City, Hubei Province"
+  bio              : "Big Data Scientist at Hubei University"
+  location         : "Wuhan, Hubei, China"
   employer         : "Hubei University"
   uri              : "https://sme.hubu.edu.cn/info/1252/1672.htm" # URL
   email            : "zhangming.peter@gmail.com" 
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=QVrM-QAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-6967-1732"
-  semantic         : "https://sme.hubu.edu.cn/info/1252/1672.htm"
+  semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
