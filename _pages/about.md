@@ -16,7 +16,7 @@ Thank you for visiting my website!
 
 News
 ======
-1. *2025-02-24* Our paper [Negative Input Protection Design of Power Switch](https://ieeexplore.ieee.org/document/) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) (SCI Q1, in press).
+1. *2025-02-24* Our paper [Negative Input Protection Design of Power Switch](https://ieeexplore.ieee.org/document/10918866) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) (SCI Q1).
 1. *2025-02-23* Our paper [Enhancing Stock Ranking Forecasting by Modeling Returns with Heteroscedastic Gaussian Distribution](https://doi.org/10.1016/j.physa.2025.130442) was accepted by [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) (SCI Q2).
 1. *2024-09-22* Our paper [A Low Power Capacitive Sensor Readout Circuit](https://ieeexplore.ieee.org/document/10846711) was accepted by [2024 6th International Conference on Circuits and Systems](https://ieeexplore.ieee.org/xpl/conhome/10845916/proceeding) (EI Compendex & Scopus).
 1. *2024-08-14* Our paper [Separating the predictable part of returns with CNN-GRU-attention from inputs to predict stock returns](https://doi.org/10.1016/j.asoc.2024.112116) was accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) (SCI Q1).
