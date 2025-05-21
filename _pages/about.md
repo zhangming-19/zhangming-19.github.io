@@ -17,7 +17,7 @@ Thank you for visiting my website!
 
 News
 ======
-1. *2025-04-27* Our paper [A Featureless Dual-Mode Latch-Based PUF](https://) was accepted by [IEEE Transactions on Very Large Scale Integration Systems](https://mc.manuscriptcentral.com/tvlsi-ieee) **(SCI Q2, CCF-B)** **in press**.
+1. *2025-04-27* Our paper [A Featureless Dual-Mode Latch-Based PUF](https://ieeexplore.ieee.org/document/11007641/) was accepted by [IEEE Transactions on Very Large Scale Integration Systems](https://mc.manuscriptcentral.com/tvlsi-ieee) **(SCI Q2, CCF-B)**. **online**
 1. *2025-03-27* Our paper [Anomalous Sound Detection Using Sound Image and CTF-Bilateral Filter](https://www.sciencedirect.com/science/article/abs/pii/S0925231225008239) was accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) **(SCI Q1, CCF-C)**.
 1. *2025-02-24* Our paper [Negative Input Protection Design of Power Switch](https://ieeexplore.ieee.org/document/10918866) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF-C)**.
 1. *2025-02-23* Our paper [Enhancing Stock Ranking Forecasting by Modeling Returns with Heteroscedastic Gaussian Distribution](https://doi.org/10.1016/j.physa.2025.130442) was accepted by [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) **(SCI Q2)**.
