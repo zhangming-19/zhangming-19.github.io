@@ -11,10 +11,3 @@ location: "Wuhan, Hubei, China"
 - *Course Goal 2* : Have a basic understanding of ARC processors; master the functions and level control ideas of different pins of embedded microprocessor chips based on ARC architecture, and build related peripheral circuits externally; master how to control the pin level through C voice and assembly language to complete the required functions;
 - *Course Goal 3* : Master the basic architecture and development process of embedded microprocessors based on ARC architecture; master common technical means and understand their significance, such as: interrupts and exceptions, watchdog circuits, JTAG, etc.; master the modular design ideas of software and hardware in embedded systems. For different application scenarios, the system can be modularly segmented and analyzed, and the hardware circuit design and software programming can be reasonably completed.
 
-Embedded Principles and Applications
-======
-
-
-Embedded Experiment
-======
-

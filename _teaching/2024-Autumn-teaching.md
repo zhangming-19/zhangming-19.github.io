@@ -11,6 +11,3 @@ location: "Wuhan, Hubei, China"
 - *Course Goal 2* : Through course learning, students will be trained to use experimental equipment and simulation software, and master the use of mainstream testing, simulation and development software in electronic information engineering;
 - *Course Goal 3* : Through the experience process of the complete hardware project development process, students will independently complete comprehensive design projects, and cultivate students' scientific attitude and professional ethics of hard work, carefulness, and seeking truth from facts.
 
-Microcontroller Experiment
-======
-
