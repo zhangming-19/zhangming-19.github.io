@@ -17,6 +17,7 @@ Thank you for visiting my website!
 
 News
 ======
+1. *2025-07-11* Our paper [Graph Neural Network-Enhanced Feature Learning for Unsupervised Anomalous Sound Detection]() was accepted by [2025 IEEE International Conference on Systems, Man, and Cybernetics](https://www.ieeesmc2025.org/) **(CCF-C)**. **accept**
 1. *2025-04-27* Our paper [A Featureless Dual-Mode Latch-Based PUF](https://ieeexplore.ieee.org/document/11007641/) was accepted by [IEEE Transactions on Very Large Scale Integration Systems](https://mc.manuscriptcentral.com/tvlsi-ieee) **(SCI Q2, CCF-B)**. **online**
 1. *2025-03-27* Our paper [Anomalous Sound Detection Using Sound Image and CTF-Bilateral Filter](https://www.sciencedirect.com/science/article/abs/pii/S0925231225008239) was accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) **(SCI Q1, CCF-C)**.
 1. *2025-02-24* Our paper [Negative Input Protection Design of Power Switch](https://ieeexplore.ieee.org/document/10918866) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF-C)**.
