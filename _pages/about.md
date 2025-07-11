@@ -17,12 +17,12 @@ Thank you for visiting my website!
 
 News
 ======
-1. *2025-07-11* Our paper [Graph Neural Network-Enhanced Feature Learning for Unsupervised Anomalous Sound Detection]() was accepted by [2025 IEEE International Conference on Systems, Man, and Cybernetics](https://www.ieeesmc2025.org/) **(CCF-C)**. **accept**
+1. *2025-07-11* Our paper [Graph Neural Network-Enhanced Feature Learning for Unsupervised Anomalous Sound Detection]() was accepted by [2025 IEEE International Conference on Systems, Man, and Cybernetics](https://www.ieeesmc2025.org/) **(CCF-C, EI)**. **accept**
 1. *2025-04-27* Our paper [A Featureless Dual-Mode Latch-Based PUF](https://ieeexplore.ieee.org/document/11007641/) was accepted by [IEEE Transactions on Very Large Scale Integration Systems](https://mc.manuscriptcentral.com/tvlsi-ieee) **(SCI Q2, CCF-B)**. **online**
 1. *2025-03-27* Our paper [Anomalous Sound Detection Using Sound Image and CTF-Bilateral Filter](https://www.sciencedirect.com/science/article/abs/pii/S0925231225008239) was accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) **(SCI Q1, CCF-C)**.
 1. *2025-02-24* Our paper [Negative Input Protection Design of Power Switch](https://ieeexplore.ieee.org/document/10918866) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF-C)**.
 1. *2025-02-23* Our paper [Enhancing Stock Ranking Forecasting by Modeling Returns with Heteroscedastic Gaussian Distribution](https://doi.org/10.1016/j.physa.2025.130442) was accepted by [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) **(SCI Q2)**.
-1. *2024-09-22* Our paper [A Low Power Capacitive Sensor Readout Circuit](https://ieeexplore.ieee.org/document/10846711) was accepted by [2024 6th International Conference on Circuits and Systems](https://ieeexplore.ieee.org/xpl/conhome/10845916/proceeding) (EI).
+1. *2024-09-22* Our paper [A Low Power Capacitive Sensor Readout Circuit](https://ieeexplore.ieee.org/document/10846711) was accepted by [2024 6th International Conference on Circuits and Systems](https://ieeexplore.ieee.org/xpl/conhome/10845916/proceeding) **(EI)**.
 1. *2024-08-14* Our paper [Separating the predictable part of returns with CNN-GRU-attention from inputs to predict stock returns](https://doi.org/10.1016/j.asoc.2024.112116) was accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) **(SCI Q1)**.
 1. *2024-03-20* Our paper [
 A hierarchical deep model integrating economic facts for stock movement prediction](https://doi.org/10.1016/j.engappai.2024.108320) was accepted by [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) **(SCI Q1, CCF-C)**.
