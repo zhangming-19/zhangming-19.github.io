@@ -2,7 +2,7 @@
 title: 'The 16th Blue Bridge Cup Electronics Competition (Hubei Province)'
 date: 2025-06-01
 permalink: /posts/2024/01/lanqiaobei-1/
-excerpt: 'Congratulations to **Wenjin Hu**, **Naijia Chen**, **Zhenrong Zhang**, and **Ruohan He** !
+excerpt: 'Congratulations to **Wenjin Hu**, **Naijia Chen**, **Zhenrong Zhang**, and **Ruohan He** !'
 tags:
   - cool posts
   - category1
