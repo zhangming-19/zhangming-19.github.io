@@ -21,7 +21,7 @@ News
 
 1. *2025-08-26* Our paper [A Digital Compatible Offset Canceled Latch-Styled Sense Amplifier Used for PUF Sensing](https://doi.org/10.1109/TCSI.2025.3603286) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF-C)**. ~~accept!~~ *online!*
 
-1. *2025-07-16* Our paper [Research on cross-path planning of UAV cluster low-altitude flight based on inertial navigation combined with GPS localization](https://doi.org/10.3390/electronics14142877) was accepted by [Electronics](https://www.mdpi.com/journal/electronics) **(SCI)**. *online!*
+1. *2025-07-16* Our paper [Cross-path planning of UAV cluster low-altitude flight based on inertial navigation combined with GPS localization](https://doi.org/10.3390/electronics14142877) was accepted by [Electronics](https://www.mdpi.com/journal/electronics) **(SCI)**. *online!*
 
 1. *2025-07-11* Our paper [Graph Neural Network-Enhanced Feature Learning for Unsupervised Anomalous Sound Detection]() was accepted by [2025 IEEE International Conference on Systems, Man, and Cybernetics](https://www.ieeesmc2025.org/) **(CCF-C, EI)**. *accept!*
 
