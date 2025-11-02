@@ -17,7 +17,7 @@ Thank you for visiting my website!
 
 News
 ======
-1. *2025-10-18* Our paper [Towards Curriculum Learning of Multi-document Summarization using Difficulty-aware Mixture-of-Experts](https://doi.org/) was accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) **(SCI Q1)**. accept!
+1. *2025-10-18* Our paper [Towards Curriculum Learning of Multi-document Summarization using Difficulty-aware Mixture-of-Experts](https://doi.org/10.1016/j.asoc.2025.114088) was accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) **(SCI Q1)**. ~~accept!~~ *online!*
 
 1. *2025-09-02* Our paper [MFPPG: Multi-feature Fusion and Patch-wise Perturbation Generation for Anomalous Sound Detection](https://doi.org/10.1016/j.measurement.2025.118915) was accepted by [Measurement](https://www.sciencedirect.com/journal/measurement) **(SCI Q1)**. ~~accept!~~ *online!*
 
