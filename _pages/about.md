@@ -17,7 +17,7 @@ Thank you for visiting my website!
 
 News
 ======
-1. *2026-01-22* Our paper [Custom Design of Full Pipeline SHA-256 Algorithm Based on Dynamic Pulsed Latch](https://doi.org/) was accepted by [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30) **(SCI Q1)**. accept! ~~*online!*~~
+1. *2026-01-22* Our paper [Custom Design of Full Pipeline SHA-256 Algorithm Based on Dynamic Pulsed Latch](https://doi.org/) was accepted by [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30) **(SCI Q1)**. ~~accept!~~ *online!*
 
 1. *2025-10-18* Our paper [Towards Curriculum Learning of Multi-document Summarization using Difficulty-aware Mixture-of-Experts](https://doi.org/10.1016/j.asoc.2025.114088) was accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) **(SCI Q1)**. ~~accept!~~ *online!*
 
