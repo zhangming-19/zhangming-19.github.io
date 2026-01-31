@@ -18,7 +18,8 @@ Work experience
 ======
 * Spring 2024: lecturer
   * School of Microelectronics, Hubei University
-
+* Spring 2025: lecturer
+  * School of Integrated Circuit, Hubei University
   
 Honors & Awards
 ======
@@ -54,4 +55,11 @@ Teaching
   
 Service and leadership
 ======
-* Referees for Information Processing & Management
+* Referees for Information processing and management. (4)
+* Referees for Biomedical signal processing and control. (3)
+* Referees for Engineering applications of artificial intelligence. (2)
+* Referees for IEEE transactions on circuits and systems. (1)
+* Referees for Intelligent systems with applications. (1)
+* Referees for Discover Computing. (3)
+* Referees for Discover Artificial Intelligence. (1)
+
