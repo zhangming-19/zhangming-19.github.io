@@ -62,4 +62,7 @@ Service and leadership
 * Referees for Intelligent systems with applications. (1)
 * Referees for Discover Computing. (3)
 * Referees for Discover Artificial Intelligence. (1)
-
+* Referees for IEEE SMC 2025. (1)
+* Referees for IEEE Access. (1)
+* Referees for Complex & Intelligent Systems. (1)
+* Referees for Measurement. (1)
