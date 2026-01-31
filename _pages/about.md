@@ -17,7 +17,7 @@ Thank you for visiting my website!
 
 News
 ======
-1. *2026-01-22* Our paper [Custom Design of Full Pipeline SHA-256 Algorithm Based on Dynamic Pulsed Latch](https://doi.org/) was accepted by [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30) **(SCI Q1)**. ~~accept!~~ *online!*
+1. *2026-01-22* Our paper [Custom Design of Full Pipeline SHA-256 Algorithm Based on Dynamic Pulsed Latch](https://ieeexplore.ieee.org/document/11369440) was accepted by [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30) **(SCI Q1)**. ~~accept!~~ *online!*
 
 1. *2025-10-18* Our paper [Towards Curriculum Learning of Multi-document Summarization using Difficulty-aware Mixture-of-Experts](https://doi.org/10.1016/j.asoc.2025.114088) was accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing) **(SCI Q1)**. ~~accept!~~ *online!*
 
@@ -27,7 +27,7 @@ News
 
 1. *2025-07-16* Our paper [Cross-path planning of UAV cluster low-altitude flight based on inertial navigation combined with GPS localization](https://doi.org/10.3390/electronics14142877) was accepted by [Electronics](https://www.mdpi.com/journal/electronics) **(SCI Q3)**. *online!*
 
-1. *2025-07-11* Our paper [Graph Neural Network-Enhanced Feature Learning for Unsupervised Anomalous Sound Detection]() was accepted by [2025 IEEE International Conference on Systems, Man, and Cybernetics](https://www.ieeesmc2025.org/) **(CCF-C, EI)**. *accept!*
+1. *2025-07-11* Our paper [Graph Neural Network-Enhanced Feature Learning for Unsupervised Anomalous Sound Detection](https://doi.org/10.1109/SMC58881.2025.11342493) was accepted by [2025 IEEE International Conference on Systems, Man, and Cybernetics](https://www.ieeesmc2025.org/) **(CCF-C, EI)**. ~~accept!~~ *online!*
 
 1. *2025-04-27* Our paper [A Featureless Dual-Mode Latch-Based PUF](https://ieeexplore.ieee.org/document/11007641/) was accepted by [IEEE Transactions on Very Large Scale Integration Systems](https://mc.manuscriptcentral.com/tvlsi-ieee) **(SCI Q2, CCF-B)**. *online!*
 
