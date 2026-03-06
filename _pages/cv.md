@@ -55,15 +55,17 @@ Teaching
   
 Service 
 ======
-* Referees for Information processing and management. (4)
 * Referees for Biomedical signal processing and control. (3)
 * Referees for Engineering applications of artificial intelligence. (2)
 * Referees for IEEE transactions on circuits and systems. (1)
-* Referees for Intelligent systems with applications. (1)
+* Referees for Information processing and management. (5)
+* Referees for Intelligent systems with applications. (2)
+* Referees for Measurement. (1)
 * Referees for Discover Computing. (3)
 * Referees for Discover Artificial Intelligence. (1)
-* Referees for IEEE SMC 2025. (1)
 * Referees for IEEE Access. (1)
 * Referees for Complex & Intelligent Systems. (1)
-* Referees for Measurement. (1)
 * Referees for Scientific Reports. (1)
+* Referees for Natural Language Processing Journal. (1)
+* Referees for IEEE SMC 2025. (1)
+* Referees for IEEE IJCNN 2026. (6)
