@@ -55,6 +55,7 @@ Teaching
   
 Service 
 ======
+* *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/journal/30673941)
 * Referees for Biomedical signal processing and control. (3)
 * Referees for Engineering applications of artificial intelligence. (2)
 * Referees for IEEE transactions on circuits and systems. (1)
@@ -65,7 +66,7 @@ Service
 * Referees for Discover Artificial Intelligence. (1)
 * Referees for IEEE Access. (1)
 * Referees for Complex & Intelligent Systems. (1)
-* Referees for Scientific Reports. (1)
+* Referees for Scientific Reports. (2)
 * Referees for Natural Language Processing Journal. (1)
 * Referees for IEEE SMC 2025. (1)
 * Referees for IEEE IJCNN 2026. (6)
