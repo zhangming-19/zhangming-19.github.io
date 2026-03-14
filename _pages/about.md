@@ -12,7 +12,7 @@ Thank you for visiting my website!
 - I received my B.E. degree in Measurement & Control Technology and Instrumentation from [China University of Geoscience](https://www.cugb.edu.cn/), Beijing, China, in 2019.
 - I received my Ph.D. degree in Signal and Information Processing from [Institute of Acoustics](http://www.ioa.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), Beijing, China, in 2024. 
 - I am co-advised by Professor [Jun Zhou](https://people.ucas.ac.cn/~0073826) and Professor [Qingwei Zhao](https://people.ucas.ac.cn/~0000303) in the CAS Key Laboratory of Speech Acoustics and Content Understanding. 
-- Now, I am a [Lecturer](https://sme.hubu.edu.cn/info/1252/1672.htm) at Hubei University. My research interests include [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Acoustic Signal Processing](https://en.wikipedia.org/wiki/Audio_signal_processing), [Fintech](https://en.wikipedia.org/wiki/Fintech), and Circuit implementation.
+- Now, I am a [Assistant Professor](https://sme.hubu.edu.cn/info/1252/1672.htm) at Hubei University. My research interests include [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Acoustic Signal Processing](https://en.wikipedia.org/wiki/Audio_signal_processing), [Fintech](https://en.wikipedia.org/wiki/Fintech), and Circuit implementation.
 
 
 News
