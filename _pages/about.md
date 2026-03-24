@@ -14,6 +14,24 @@ Thank you for visiting my website!
 - I am co-advised by Professor [Jun Zhou](https://people.ucas.ac.cn/~0073826) and Professor [Qingwei Zhao](https://people.ucas.ac.cn/~0000303) in the CAS Key Laboratory of Speech Acoustics and Content Understanding. 
 - Now, I am a [Assistant Professor](https://sme.hubu.edu.cn/info/1252/1672.htm) at Hubei University. My research interests include [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Acoustic Signal Processing](https://en.wikipedia.org/wiki/Audio_signal_processing), [Fintech](https://en.wikipedia.org/wiki/Fintech), and Circuit implementation.
 
+Service 
+======
+* *Editorial Review Board* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/home/act) 2025-2028
+* *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/journal/30673941) 2025-2028
+* Referees for Information processing and management. 
+* Referees for Engineering applications of artificial intelligence. 
+* Referees for Intelligent systems with applications. 
+* Referees for Biomedical signal processing and control. 
+* Referees for Complex & Intelligent Systems. 
+* Referees for Natural Language Processing Journal. 
+* Referees for IEEE transactions on circuits and systems. 
+* Referees for IEEE Access. 
+* Referees for Measurement. 
+* Referees for Discover Artificial Intelligence. 
+* Referees for Discover Computing. 
+* Referees for Scientific Reports. 
+* Referees for IEEE SMC 2025. 
+* Referees for IEEE IJCNN 2026. 
 
 News
 ======
