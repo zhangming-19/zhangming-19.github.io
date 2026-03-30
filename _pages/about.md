@@ -16,8 +16,9 @@ Thank you for visiting my website!
 
 Service 
 ======
-* *Editorial Review Board* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/home/act) 2025-2028
-* *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/journal/30673941) 2025-2028
+* *Editorial Board Member* of [PLoS ONE](https://journals.plos.org/plosone/static/editorial-board?ae_name=Ming+Zhang).
+* *Editorial Board Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
+* *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/journal/30673941).
 * Referees for Information processing and management. 
 * Referees for Engineering applications of artificial intelligence. 
 * Referees for Intelligent systems with applications. 
