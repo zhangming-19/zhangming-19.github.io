@@ -17,6 +17,7 @@ Thank you for visiting my website!
 Service 
 ======
 * *Editorial Board Member* of [PLoS ONE](https://journals.plos.org/plosone/static/editorial-board?ae_name=Ming+Zhang).
+* *Editorial Board Member* of [Journal of Big Data Research](https://openaccesspub.org/journal/big-data-research/editorial-board).
 * *Editorial Board Member* of [European Journal of Information Technologies and Computer Science](https://eu-opensci.org/index.php/compute/about/editorialTeam).
 * *Editorial Board Member* of [European Journal of Artificial Intelligent and Machine Learning](https://eu-opensci.org/index.php/ejai/about/editorialTeam).
 * *Editorial Board Member* of [European Journal of Electrical Engineering and Computer Science](https://eu-opensci.org/index.php/ejece/about/editorialTeam).
