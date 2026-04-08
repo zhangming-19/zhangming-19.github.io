@@ -16,6 +16,7 @@ Thank you for visiting my website!
 
 Service 
 ======
+* *Editorial Board Member* of [Scientific Reports](https://www.nature.com/srep/about/editors#editorial-board).
 * *Editorial Board Member* of [PLoS ONE](https://journals.plos.org/plosone/static/editorial-board?ae_name=Ming+Zhang).
 * *Editorial Board Member* of [Journal of Big Data Research](https://openaccesspub.org/journal/big-data-research/editorial-board).
 * *Editorial Board Member* of [European Journal of Information Technologies and Computer Science](https://eu-opensci.org/index.php/compute/about/editorialTeam).
