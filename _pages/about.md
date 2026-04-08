@@ -41,6 +41,8 @@ Service
 
 News
 ======
+1. *2026-04-08* Our paper [A High-Precision Reference-Free Relaxation Oscillator with Supply-Tracking Switching Threshold](https://doi.org/TBD) was accepted by [IEEE Transactions on Very Large Scale Integration Systems](https://mc.manuscriptcentral.com/tvlsi-ieee) **(SCI Q2, CCF B)**. *accept!* ~~*online!*~~
+
 1. *2026-03-03* Our paper [LAES: A Local Adaptive Edge-enhanced Spectrogram Method for Unsupervised Anomalous Sound Detection](https://doi.org/10.1016/j.sigpro.2026.110584) was accepted by [Signal Processing](https://www.sciencedirect.com/journal/signal-processing) **(SCI Q2, CCF C)**. ~~*accept!*~~ *online!*
 
 1. *2026-01-22* Our paper [Custom Design of Full Pipeline SHA-256 Algorithm Based on Dynamic Pulsed Latch](https://ieeexplore.ieee.org/document/11369440) was accepted by [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30) **(SCI Q1)**. ~~accept!~~ *online!*
