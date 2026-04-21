@@ -25,7 +25,7 @@ Service
 * *Editorial Board Member* of [European Journal of Artificial Intelligent and Machine Learning](https://eu-opensci.org/index.php/ejai/about/editorialTeam).
 * *Editorial Board Member* of [European Journal of Electrical Engineering and Computer Science](https://eu-opensci.org/index.php/ejece/about/editorialTeam).
 * *Editorial Board Member* of [American Journal of Information Science and Technology](http://www.ajist.org/editorial-team).
-* Referees for Intelligent Data Analysis. 
+* Referees for Expert systems with applications. 
 * Referees for Information processing and management. 
 * Referees for Engineering applications of artificial intelligence. 
 * Referees for Intelligent systems with applications. 
