@@ -44,7 +44,7 @@ Service
 
 News
 ======
-1. *2026-04-17* Our paper [Enhancing Infant Cry Recognition Using Lightweight CNN with Hybrid Feature Augmentation](https://doi.org/TBD) was accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) **(SCI Q2)**. *accept!* ~~*online!*~~
+1. *2026-04-17* Our paper [Enhancing Infant Cry Recognition Using Lightweight CNN with Hybrid Feature Augmentation](https://doi.org/10.1016/j.bspc.2026.110367) was accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) **(SCI Q2)**. ~~*accept!*~~ *online!*
 
 1. *2026-04-08* Our paper [A High-Precision Reference-Free Relaxation Oscillator with Supply-Tracking Switching Threshold](https://ieeexplore.ieee.org/document/11481008) was accepted by [IEEE Transactions on Very Large Scale Integration Systems](https://mc.manuscriptcentral.com/tvlsi-ieee) **(SCI Q2, CCF B)**. ~~*accept!*~~ *online!*
 
