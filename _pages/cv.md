@@ -55,8 +55,11 @@ Teaching
   
 Service 
 ======
-* *Editorial Review Board* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/home/act)
-* *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/journal/30673941)
+* *Editorial Board Member* of [Scientific Reports](https://www.nature.com/srep/about/editors#editorial-board).
+* *Editorial Board Member* of [PLoS ONE](https://journals.plos.org/plosone/static/editorial-board?ae_name=Ming+Zhang).
+* *Editorial Review Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
+* *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/page/journal/30673941/homepage/editorial-board).
+
 * Referees for Biomedical signal processing and control. (3)
 * Referees for Engineering applications of artificial intelligence. (2)
 * Referees for IEEE transactions on circuits and systems. (1)
