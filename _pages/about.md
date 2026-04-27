@@ -36,6 +36,7 @@ Service
 * Referees for Discover Computing. 
 * Referees for Scientific Reports. 
 * Referees for IEEE SMC 2025. 
+* Referees for IEEE SMC 2026. 
 * Referees for IEEE IJCNN 2026. 
 
 News
