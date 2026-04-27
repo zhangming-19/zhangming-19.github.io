@@ -21,12 +21,6 @@ Service
 * *Editorial Review Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
 * *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/page/journal/30673941/homepage/editorial-board).
 
-<!-- * *Editorial Board Member* of [Journal of Big Data Research](https://openaccesspub.org/journal/big-data-research/editorial-board).
-* *Editorial Board Member* of [European Journal of Information Technologies and Computer Science](https://eu-opensci.org/index.php/compute/about/editorialTeam).
-* *Editorial Board Member* of [European Journal of Artificial Intelligent and Machine Learning](https://eu-opensci.org/index.php/ejai/about/editorialTeam).
-* *Editorial Board Member* of [European Journal of Electrical Engineering and Computer Science](https://eu-opensci.org/index.php/ejece/about/editorialTeam).
-* *Editorial Board Member* of [American Journal of Information Science and Technology](http://www.ajist.org/editorial-team). -->
-
 * Referees for Expert systems with applications. 
 * Referees for Information processing and management. 
 * Referees for Engineering applications of artificial intelligence. 
