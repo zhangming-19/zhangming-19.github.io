@@ -19,7 +19,8 @@ Service
 * *Editorial Board Member* of [Scientific Reports](https://www.nature.com/srep/about/editors#editorial-board).
 * *Editorial Board Member* of [PLoS ONE](https://journals.plos.org/plosone/static/editorial-board?ae_name=Ming+Zhang).
 * *Editorial Review Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
-* *Youth Editorial Board Member* of [Al & Innovation (Al2)](https://onlinelibrary.wiley.com/page/journal/30673941/homepage/editorial-board).
+* *Youth Editorial Board Member* of [Al & Innovation](https://onlinelibrary.wiley.com/page/journal/30673941/homepage/editorial-board).
+* *Youth Editorial Board Member* of [Journal of Electronic & Information Systems](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
 
 * Referees for Expert systems with applications. 
 * Referees for Information processing and management. 
@@ -35,9 +36,8 @@ Service
 * Referees for Discover Artificial Intelligence. 
 * Referees for Discover Computing. 
 * Referees for Scientific Reports. 
-* Referees for IEEE SMC 2025. 
-* Referees for IEEE SMC 2026. 
-* Referees for IEEE IJCNN 2026. 
+* Referees for IEEE SMC. 
+* Referees for IEEE IJCNN. 
 
 News
 ======
