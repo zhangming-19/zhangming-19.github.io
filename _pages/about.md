@@ -36,6 +36,8 @@ Service
 * Referees for Discover Artificial Intelligence. 
 * Referees for Discover Computing. 
 * Referees for Scientific Reports. 
+* Referees for Technology and Health Care. 
+* Referees for Sound & Vibration.
 * Referees for IEEE SMC. 
 * Referees for IEEE IJCNN. 
 
