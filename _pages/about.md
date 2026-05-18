@@ -21,6 +21,8 @@ Service
 * *Editorial Review Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
 * *Youth Editorial Board Member* of [Al & Innovation](https://onlinelibrary.wiley.com/page/journal/30673941/homepage/editorial-board).
 * *Youth Editorial Board Member* of [Journal of Electronic & Information Systems](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
+* *Publicity Chairs* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
+
 
 * Referees for Expert systems with applications. 
 * Referees for Information processing and management. 
