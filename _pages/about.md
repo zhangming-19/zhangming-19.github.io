@@ -45,7 +45,7 @@ Service
 
 News
 ======
-1. *2026-05-29* Our paper [An IO-Efficient SC PUF Used for Protecting Chips from PCB-level Attacks](https://doi.org/10.1016/) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF C)**. accept! ~~*online!*~~
+1. *2026-05-29* Our paper [An IO-Efficient SC PUF Used for Protecting Chips from PCB-level Attacks](https://ieeexplore.ieee.org/document/11554175) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF C)**. ~~*accept!*~~ *Early Access!*
 
 2. *2026-04-17* Our paper [Enhancing Infant Cry Recognition Using Lightweight CNN with Hybrid Feature Augmentation](https://doi.org/10.1016/j.bspc.2026.110367) was accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) **(SCI Q2)**. ~~*accept!*~~ *online!*
 
