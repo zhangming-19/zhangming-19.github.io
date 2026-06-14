@@ -41,6 +41,7 @@ Service
 * Referees for Scientific Data. 
 * Referees for Technology and Health Care. 
 * Referees for Sound & Vibration.
+* Referees for Intelligent Unmanned Technologies and Systems. 
 * Referees for IEEE SMC. 
 * Referees for IEEE IJCNN. 
 
