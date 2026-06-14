@@ -42,6 +42,7 @@ Service
 * Referees for Technology and Health Care. 
 * Referees for Sound & Vibration.
 * Referees for Intelligent Unmanned Technologies and Systems. 
+* Referees for Pattern Analysis and Applications. 
 * Referees for IEEE SMC. 
 * Referees for IEEE IJCNN. 
 
