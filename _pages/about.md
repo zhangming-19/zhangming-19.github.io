@@ -25,47 +25,47 @@ Service
 * *Publicity Chairs* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
 
 
-Review for ELSEVIER
+Review for Elsevier Journals
 ======
-* Referees for Financial Innovation.
-* Referees for Expert Systems with Applications. 
-* Referees for Information Processing and Management. 
-* Referees for Engineering Applications of Artificial Intelligence. 
-* Referees for Biomedical Signal Processing and Control. 
-* Referees for Applied Soft Computing. 
-* Referees for Measurement. 
-* Referees for Pattern Recognition Letters](https://www.editorialmanager.com/prletters/). 
-* Referees for [Applied Intelligence](https://www.editorialmanager.com/apin/). 
-* Referees for Intelligent Systems with Applications. 
-* Referees for Natural Language Processing Journal. 
-* Referees for Complex & Intelligent Systems. 
+* Referees for [Financial Innovation](https://link.springer.com/journal/40854).
+* Referees for [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
+* Referees for [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management).
+* Referees for [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
+* Referees for [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
+* Referees for [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing).
+* Referees for [Measurement](https://www.sciencedirect.com/journal/measurement).
+* Referees for [Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters).
+* Referees for [Applied Intelligence](https://link.springer.com/journal/10489).
+* Referees for [Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications).
+* Referees for [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal).
+* Referees for [Complex & Intelligent Systems](https://link.springer.com/journal/40747).
 
-Review for SPRINGER NATURE
+Review for Springer Nature Journals
 ======
-* Referees for Discover Artificial Intelligence. 
-* Referees for Discover Computing. 
-* Referees for Scientific Reports. 
-* Referees for Scientific Data. 
-* Referees for Knowledge and Information Systems. 
-* Referees for Pattern Analysis and Applications. 
-* Referees for BMC Bioinformatics.
+* Referees for [Discover Artificial Intelligence](https://link.springer.com/journal/44163).
+* Referees for [Discover Computing](https://link.springer.com/journal/10791).
+* Referees for [Scientific Reports](https://www.nature.com/srep/).
+* Referees for [Scientific Data](https://www.nature.com/sdata/).
+* Referees for [Knowledge and Information Systems](https://link.springer.com/journal/10115).
+* Referees for [Pattern Analysis and Applications](https://link.springer.com/journal/10044).
+* Referees for [BMC Bioinformatics](https://link.springer.com/journal/12859).
 
-Review for IEEE
+Review for IEEE Journals and Conferences
 ======
-* Referees for IEEE Transactions on Circuits and Systems II Express Briefs. 
-* Referees for IEEE Access. 
-* Referees for IEEE SMC. 
-* Referees for IEEE IJCNN. 
-* Referees for IEEE NLPCC. 
+* Referees for [IEEE Transactions on Circuits and Systems II: Express Briefs](https://ieee-cas.org/publication/TCAS-II).
+* Referees for [IEEE Access](https://ieeeaccess.ieee.org/).
+* Referees for [IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026)](https://www.ieeesmc2026.org/).
+* Referees for [International Joint Conference on Neural Networks (IJCNN 2026)](https://www.inns.org/ijcnn-home).
+* Referees for [CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2026)](https://tcci.ccf.org.cn/conference/2026/).
 
-Review for SAGE and others
+Review for SAGE and Others Journals
 ======
-* Referees for Intelligent Data Analysis. 
-* Referees for Technology and Health Care. 
-* Referees for [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). 
+* Referees for [Intelligent Data Analysis](https://journals.sagepub.com/home/ida).
+* Referees for [Technology and Health Care](https://journals.sagepub.com/home/thc).
+* Referees for [Computers, Materials & Continua](https://www.techscience.com/cmc).
 * Referees for [Sound & Vibration](https://ojs.acad-pub.com/index.php/SV).
-* Referees for Intelligent Unmanned Technologies and Systems. 
-* Referees for [Journal of Atmospheric Science Research](https://journals.bilpubgroup.com/index.php/jasr). 
+* Referees for [Intelligent Unmanned Technologies and Systems](https://ojs.bonviewpress.com/index.php/IUTS).
+* Referees for [Journal of Atmospheric Science Research](https://journals.bilpubgroup.com/index.php/jasr).
 
 
 News
