@@ -24,30 +24,54 @@ Service
 * *Youth Editorial Board Member* of [Electronics and Signal Processing](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
 * *Publicity Chairs* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
 
-* Referees for Expert systems with applications. 
-* Referees for Information processing and management. 
-* Referees for Engineering applications of artificial intelligence. 
-* Referees for Intelligent systems with applications. 
-* Referees for Biomedical signal processing and control. 
-* Referees for Intelligent Data Analysis. 
-* Referees for Complex & Intelligent Systems. 
-* Referees for Natural Language Processing Journal. 
-* Referees for IEEE transactions on circuits and systems. 
-* Referees for IEEE Access. 
+
+Review for ELSEVIER
+======
+* Referees for Financial Innovation.
+* Referees for Expert Systems with Applications. 
+* Referees for Information Processing and Management. 
+* Referees for Engineering Applications of Artificial Intelligence. 
+* Referees for Biomedical Signal Processing and Control. 
+* Referees for Applied Soft Computing. 
 * Referees for Measurement. 
+* Referees for Pattern Recognition Letters](https://www.editorialmanager.com/prletters/). 
+* Referees for [Applied Intelligence](https://www.editorialmanager.com/apin/). 
+* Referees for Intelligent Systems with Applications. 
+* Referees for Natural Language Processing Journal. 
+* Referees for Complex & Intelligent Systems. 
+
+Review for SPRINGER NATURE
+======
 * Referees for Discover Artificial Intelligence. 
 * Referees for Discover Computing. 
 * Referees for Scientific Reports. 
 * Referees for Scientific Data. 
-* Referees for Technology and Health Care. 
-* Referees for Sound & Vibration.
-* Referees for Intelligent Unmanned Technologies and Systems. 
+* Referees for Knowledge and Information Systems. 
 * Referees for Pattern Analysis and Applications. 
+* Referees for BMC Bioinformatics.
+
+Review for IEEE
+======
+* Referees for IEEE Transactions on Circuits and Systems II Express Briefs. 
+* Referees for IEEE Access. 
 * Referees for IEEE SMC. 
 * Referees for IEEE IJCNN. 
+* Referees for IEEE NLPCC. 
+
+Review for SAGE and others
+======
+* Referees for Intelligent Data Analysis. 
+* Referees for Technology and Health Care. 
+* Referees for [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). 
+* Referees for [Sound & Vibration](https://ojs.acad-pub.com/index.php/SV).
+* Referees for Intelligent Unmanned Technologies and Systems. 
+* Referees for [Journal of Atmospheric Science Research](https://journals.bilpubgroup.com/index.php/jasr). 
+
 
 News
 ======
+1. *2026-06-22* Our paper [A Feature-Eliminated Weak Arbiter PUF for Key Concealment](https://ieeexplore.ieee.org/) was accepted by [ITC-Asia 2026](https://www.castest.com.cn/itcasia_2026) **(CCF C)**. *accept!* ~~*Early Access!*~~
+
 1. *2026-05-29* Our paper [An IO-Efficient SC PUF Used for Protecting Chips from PCB-level Attacks](https://ieeexplore.ieee.org/document/11554175) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF C)**. ~~*accept!*~~ *Early Access!*
 
 2. *2026-04-17* Our paper [Enhancing Infant Cry Recognition Using Lightweight CNN with Hybrid Feature Augmentation](https://doi.org/10.1016/j.bspc.2026.110367) was accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) **(SCI Q2)**. ~~*accept!*~~ *online!*
