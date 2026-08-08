@@ -22,6 +22,7 @@ Academic Service
 * *Youth Editorial Board Member* of [Al & Innovation](https://onlinelibrary.wiley.com/page/journal/30673941/homepage/editorial-board).
 * *Youth Editorial Board Member* of [Journal of Electronic & Information Systems](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
 * *Youth Editorial Board Member* of [Electronics and Signal Processing](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
+* *Youth Editorial Board Member* of [Interdiscipline](https://www.elspub.com/journals/interdiscipline).
 * *Publicity Chairs* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
 
 
@@ -66,6 +67,7 @@ Review for SAGE and Others Journals
 * Referees for [Sound & Vibration](https://ojs.acad-pub.com/index.php/SV).
 * Referees for [Intelligent Unmanned Technologies and Systems](https://ojs.bonviewpress.com/index.php/IUTS).
 * Referees for [Journal of Atmospheric Science Research](https://journals.bilpubgroup.com/index.php/jasr).
+* Referees for [Research in Ecology](https://journals.bilpubgroup.com/index.php/re).
 
 
 News
