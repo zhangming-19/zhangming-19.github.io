@@ -24,11 +24,13 @@ Academic Service
 * *Youth Editorial Board Member* of [Electronics and Signal Processing](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
 * *Youth Editorial Board Member* of [Interdiscipline](https://www.elspub.com/journals/interdiscipline).
 * *Publicity Chairs* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
+* *Guest Editor* for the Special Issue **AI-Enabled Signal Processing and Intelligent Systems** in [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). We warmly welcome your submissions!
+
 
 
 Review for Elsevier Journals
 ======
-* Referees for [Financial Innovation](https://link.springer.com/journal/40854).
+* Referees for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 * Referees for [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 * Referees for [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management).
 * Referees for [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
@@ -36,13 +38,16 @@ Review for Elsevier Journals
 * Referees for [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing).
 * Referees for [Measurement](https://www.sciencedirect.com/journal/measurement).
 * Referees for [Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters).
-* Referees for [Applied Intelligence](https://link.springer.com/journal/10489).
+* Referees for [Pacific-Basin Finance Journal](https://www.sciencedirect.com/journal/pacific-basin-finance-journal).
 * Referees for [Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications).
 * Referees for [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal).
-* Referees for [Complex & Intelligent Systems](https://link.springer.com/journal/40747).
+
 
 Review for Springer Nature Journals
 ======
+* Referees for [Financial Innovation](https://link.springer.com/journal/40854).
+* Referees for [Applied Intelligence](https://link.springer.com/journal/10489).
+* Referees for [Complex & Intelligent Systems](https://link.springer.com/journal/40747).
 * Referees for [Discover Artificial Intelligence](https://link.springer.com/journal/44163).
 * Referees for [Discover Computing](https://link.springer.com/journal/10791).
 * Referees for [Scientific Reports](https://www.nature.com/srep/).
