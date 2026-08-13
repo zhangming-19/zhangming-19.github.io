@@ -24,7 +24,7 @@ Academic Service
 * *Youth Editorial Board Member* of [Electronics and Signal Processing](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
 * *Youth Editorial Board Member* of [Interdiscipline](https://www.elspub.com/journals/interdiscipline).
 * *Publicity Chairs* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
-* *Guest Editor* for the Special Issue **AI-Enabled Signal Processing and Intelligent Systems** in [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). We warmly welcome your submissions!
+* *Guest Editor* for the Themed Collection **[AI-Enabled Signal Processing and Intelligent Systems](https://ijs.tspsubmission.com/page/index.html#/submission?id=1&sectionid=2985)** in [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). We warmly welcome your submissions!
 
 
 
@@ -63,6 +63,7 @@ Review for IEEE Journals and Conferences
 * Referees for [IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026)](https://www.ieeesmc2026.org/).
 * Referees for [International Joint Conference on Neural Networks (IJCNN 2026)](https://www.inns.org/ijcnn-home).
 * Referees for [CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2026)](https://tcci.ccf.org.cn/conference/2026/).
+* Referees for [International Conference on Circuits and Systems (ICCS 2026)](https://www.iccs.org/).
 
 Review for SAGE and Others Journals
 ======
