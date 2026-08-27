@@ -18,14 +18,9 @@ Academic Service
 ======
 * *Editorial Board Member* of [Scientific Reports](https://www.nature.com/srep/about/editors#editorial-board).
 * *Editorial Board Member* of [PLoS ONE](https://journals.plos.org/plosone/static/editorial-board?ae_name=Ming+Zhang).
-* *Editorial Review Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
-* *Youth Editorial Board Member* of [Al & Innovation](https://onlinelibrary.wiley.com/page/journal/30673941/homepage/editorial-board).
-* *Youth Editorial Board Member* of [Journal of Electronic & Information Systems](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
-* *Youth Editorial Board Member* of [Electronics and Signal Processing](https://journals.bilpubgroup.com/index.php/jeis/about/editorialTeam).
-* *Youth Editorial Board Member* of [Interdiscipline](https://www.elspub.com/journals/interdiscipline).
-* *Publicity Chairs* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
 * *Guest Editor* for the Themed Collection **[AI-Enabled Signal Processing and Intelligent Systems](https://ijs.tspsubmission.com/page/index.html#/submission?id=1&sectionid=2985)** in [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). We warmly welcome your submissions!
-
+* *Publicity Chair* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
+* *Editorial Review Board Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
 
 
 Review for Elsevier Journals
