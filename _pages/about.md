@@ -36,7 +36,7 @@ Review for Elsevier Journals
 * Referees for [Pacific-Basin Finance Journal](https://www.sciencedirect.com/journal/pacific-basin-finance-journal).
 * Referees for [Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications).
 * Referees for [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal).
-
+* Referees for [Array](https://www.journals.elsevier.com/array).
 
 Review for Springer Nature Journals
 ======
@@ -70,7 +70,6 @@ Review for SAGE and Others Journals
 * Referees for [Intelligent Unmanned Technologies and Systems](https://ojs.bonviewpress.com/index.php/IUTS).
 * Referees for [Journal of Atmospheric Science Research](https://journals.bilpubgroup.com/index.php/jasr).
 * Referees for [Research in Ecology](https://journals.bilpubgroup.com/index.php/re).
-
 
 News
 ======
