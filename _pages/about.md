@@ -61,6 +61,11 @@ Review for IEEE Journals and Conferences
 * Referees for [CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2026)](https://tcci.ccf.org.cn/conference/2026/).
 * Referees for [International Conference on Circuits and Systems (ICCS 2026)](https://www.iccs.org/).
 
+Review for MDPI Journals
+======
+* Referees for [Electronics](https://www.mdpi.com/journal/electronics/).
+* Referees for [Sustainability](http://www.mdpi.com/journal/sustainability).
+
 Review for SAGE and Others Journals
 ======
 * Referees for [Intelligent Data Analysis](https://journals.sagepub.com/home/ida).
