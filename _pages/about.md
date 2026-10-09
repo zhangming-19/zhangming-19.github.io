@@ -65,6 +65,7 @@ Review for MDPI Journals
 ======
 * Referees for [Electronics](https://www.mdpi.com/journal/electronics/).
 * Referees for [Sustainability](http://www.mdpi.com/journal/sustainability).
+* Referees for [Information](http://www.mdpi.com/journal/information).
 
 Review for SAGE and Others Journals
 ======
