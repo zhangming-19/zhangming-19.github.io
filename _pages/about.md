@@ -79,7 +79,7 @@ Review for SAGE and Others Journals
 
 News
 ======
-1. *2026-06-22* Our paper [A Feature-Eliminated Weak Arbiter PUF for Key Concealment](https://ieeexplore.ieee.org/) was accepted by [ITC-Asia 2026](https://www.castest.com.cn/itcasia_2026) **(CCF C)**. *accept!* ~~*Early Access!*~~
+1. *2026-06-22* Our paper [A Feature-Eliminated Weak Arbiter PUF for Key Concealment](https://ieeexplore.ieee.org/abstract/document/11710956) was accepted by [ITC-Asia 2026](https://www.castest.com.cn/itcasia_2026) **(CCF C)**. ~~*accept!*~~ *online!*
 
 1. *2026-05-29* Our paper [An IO-Efficient SC PUF Used for Protecting Chips from PCB-level Attacks](https://ieeexplore.ieee.org/document/11554175) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF C)**. ~~*accept!*~~ *Early Access!*
 
