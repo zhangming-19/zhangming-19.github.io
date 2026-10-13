@@ -17,10 +17,8 @@ Thank you for visiting my website!
 Academic Service 
 ======
 * *Editorial Board Member* of [Scientific Reports](https://www.nature.com/srep/about/editors#editorial-board).
-* *Editorial Board Member* of [PLoS ONE](https://journals.plos.org/plosone/static/editorial-board?ae_name=Ming+Zhang).
 * *Guest Editor* for the Themed Collection **[AI-Enabled Signal Processing and Intelligent Systems](https://ijs.tspsubmission.com/page/index.html#/submission?id=1&sectionid=2985)** in [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). We warmly welcome your submissions!
 * *Publicity Chair* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
-* *Editorial Review Board Member* of [Journal of Algorithms & Computational Technology](https://journals.sagepub.com/editorial-board/act).
 
 
 Review for Elsevier Journals
@@ -75,11 +73,11 @@ Review for SAGE and Others Journals
 * Referees for [Sound & Vibration](https://ojs.acad-pub.com/index.php/SV).
 * Referees for [Intelligent Unmanned Technologies and Systems](https://ojs.bonviewpress.com/index.php/IUTS).
 * Referees for [Journal of Atmospheric Science Research](https://journals.bilpubgroup.com/index.php/jasr).
-* Referees for [Research in Ecology](https://journals.bilpubgroup.com/index.php/re).
+
 
 News
 ======
-1. *2026-06-22* Our paper [A Feature-Eliminated Weak Arbiter PUF for Key Concealment](https://ieeexplore.ieee.org/abstract/document/11710956) was accepted by [ITC-Asia 2026](https://www.castest.com.cn/itcasia_2026) **(CCF C)**. ~~*accept!*~~ *online!*
+2. *2026-06-22* Our paper [A Feature-Eliminated Weak Arbiter PUF for Key Concealment](https://ieeexplore.ieee.org/abstract/document/11710956) was accepted by [ITC-Asia 2026](https://www.castest.com.cn/itcasia_2026) **(CCF C)**. ~~*accept!*~~ *online!*
 
 1. *2026-05-29* Our paper [An IO-Efficient SC PUF Used for Protecting Chips from PCB-level Attacks](https://ieeexplore.ieee.org/document/11554175) was accepted by [IEEE Transactions on Circuits and Systems I: Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919) **(SCI Q1, CCF C)**. ~~*accept!*~~ *Early Access!*
 
