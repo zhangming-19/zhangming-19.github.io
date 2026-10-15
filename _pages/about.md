@@ -16,9 +16,10 @@ Thank you for visiting my website!
 
 Academic Service 
 ======
-* *Editorial Board Member* of [Scientific Reports](https://www.nature.com/srep/about/editors#editorial-board).
-* *Guest Editor* for the Themed Collection **[AI-Enabled Signal Processing and Intelligent Systems](https://ijs.tspsubmission.com/page/index.html#/submission?id=1&sectionid=2985)** in [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). We warmly welcome your submissions!
-* *Publicity Chair* of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
+* **Editorial Board Member** of [Scientific Reports](https://www.nature.com/srep/about/editors#editorial-board).
+* **Guest Editor** for the Themed Collection *[AI-Enabled Signal Processing and Intelligent Systems](https://ijs.tspsubmission.com/page/index.html#/submission?id=1&sectionid=2985)* in [Computers, Materials & Continua](https://www.techscience.com/journal/cmc). We warmly welcome your submissions!
+* **Guest Editor** for the Special Issue *[Artificial Intelligence for Next-Generation Electronic Devices, Circuits and Systems](https://www.mdpi.com/journal/jlpea/special_issues/6B7D8C2R0K)* in [Computers, Materials & Continua](https://www.mdpi.com/journal/jlpea). We warmly welcome your submissions!
+* **Publicity Chair** of [2026 6th International Conference on Circuits, Systems and Devices](https://iccsd.net/committee.html).
 
 
 Review for Elsevier Journals
