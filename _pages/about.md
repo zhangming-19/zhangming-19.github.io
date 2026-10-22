@@ -54,6 +54,7 @@ Review for IEEE Journals and Conferences
 ======
 * Referees for [IEEE Signal Processing Letters](https://mc.manuscriptcentral.com/spl-ieee).
 * Referees for [IEEE Transactions on Circuits and Systems II: Express Briefs](https://ieee-cas.org/publication/TCAS-II).
+* Referees for [IEEE Journal of Biomedical and Health Informatics](https://mc.manuscriptcentral.com/jbhi-embs).
 * Referees for [IEEE Access](https://ieeeaccess.ieee.org/).
 * Referees for [IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026)](https://www.ieeesmc2026.org/).
 * Referees for [International Joint Conference on Neural Networks (IJCNN 2026)](https://www.inns.org/ijcnn-home).
